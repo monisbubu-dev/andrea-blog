@@ -1,0 +1,6 @@
+{
+  "name": "Andrea — Personal English Learning Blog",
+  "description": "Minimalist personal English learning blog by Andrea Ospina, featuring reflections on language acquisition, technology, culture, and communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
